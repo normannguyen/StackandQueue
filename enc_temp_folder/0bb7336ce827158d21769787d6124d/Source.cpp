@@ -48,7 +48,7 @@ int main() {
 			break;
 		//Update: Replaces a current number with a different number
 		case 5:
-			
+			Stack.swap(Stack);
 			break;
 		}
 	} while (choice != 6);
